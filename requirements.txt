@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+numpy
+yfinance
+pyarrow
+gymnasium
+stable-baselines3
+streamlit
+plotly
+tensorboard
+pytest

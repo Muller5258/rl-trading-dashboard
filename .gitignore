@@ -1,0 +1,9 @@
+# .gitignore
+.venv/
+data/
+models/
+runs/
+__pycache__/
+*.pyc
+.pytest_cache/
+pipeline.log
